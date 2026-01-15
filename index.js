@@ -60,7 +60,7 @@ if (Number.isNaN(answer)) {
   alert("Incorrect.");
 }
 
-alert(`You've finished the quiz.
+alert(`Quiz Completed
 Your final score is ${score} out of 3.
 `);
 
